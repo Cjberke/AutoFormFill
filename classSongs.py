@@ -70,5 +70,5 @@ if __name__ == "__main__":
                                                 scope="user-modify-playback-state"))
 
     playlist = get_playlist(sp)
-    submit_tracks(playlist)
+    #submit_tracks(playlist)
     print("Done or index errored lol")
