@@ -1,9 +1,8 @@
 # What to do
 1. Install the correct dependencies 
 
-   * Spotipy
-   * selenium
-   * json
+   * Spotipy: `pip install spotipy`
+   * selenium: `pip install selenium`
 
 2. Update the necassary API Keys in keys.txt
 
@@ -11,6 +10,6 @@
 
    * It's setup to throw some errors if you missed something
 
-4. Play with get_playlist function to determine what playlist you want
+4. Play with `get_playlist` function to determine what playlist you want
 
-   * Put a print statement in and check what playlist it's getting
+   * Put a `print()` statement in and check what playlist it's getting
