@@ -13,3 +13,6 @@
 4. Play with `get_playlist` function to determine what playlist you want
 
    * Put a `print()` statement in and check what playlist it's getting
+
+# SUPPORT ENDED, WAS JUST A FUN PROJECT, LOST LOCAL FILES WHICH CONTAINED LARGE CHANGES IN FUNCTIONALITY
+## Have fun working with it if you want lol
